@@ -1,0 +1,21 @@
+# Папки
+bin/
+obj/
+Publish/
+
+# Файлы
+*.user
+*.suo
+*.pdb
+*.exe
+*.dll
+*.log
+*.vsix
+*.zip
+*.cache
+
+# Исключения
+!/.editorconfig
+!/*.sln
+!/**/*.csproj
+!/**/*.config
